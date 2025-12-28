@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~12.2.16",
     "@angular/platform-browser-dynamic": "~12.2.16",
     "@angular/router": "~12.2.16",
-    "@azure/msal-angular": "^2.0.2",
+    "@azure/msal-angular": "^2.5.13",
     "@azure/msal-browser": "^2.22.0",
     "@microsoft/mgt": "*",
     "rxjs": "~6.5.4",
